@@ -1,0 +1,1 @@
+The game ROM is not included for copyright reasons. If you have the ROM availible you can format it using the Gym Retro Integration UI found here: https://retro.readthedocs.io/en/latest/integration.html

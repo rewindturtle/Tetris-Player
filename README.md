@@ -12,4 +12,4 @@ Scoring Parameters:
 - Number of "wells" (areas of the board that have a block on each side but none above
 - Number lines cleared by placing a block
 
-The weighting for each parameter is determined through a cross-entropy algorithm.
+The weighting for each parameter is determined through a cross-entropy algorithm. THe game is played through gym-retro, a python library by Open-Ai that emulates videogames in python. The state and data files are included in the repo. However, the ROM of the game is not.

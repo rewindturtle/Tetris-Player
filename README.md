@@ -16,4 +16,5 @@ The weighting for each parameter is determined through a cross-entropy algorithm
 
 
 Link to paper: http://proceedings.mlr.press/v48/simsek16.html
+
 Link to Gym Retro: https://openai.com/blog/gym-retro/

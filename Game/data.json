@@ -1,0 +1,32 @@
+{
+  "info": {
+    "num_pieces": {
+      "address": 26,
+      "type": "|u1"
+    },
+	"pieceX": {
+      "address": 64,
+      "type": "|u1"
+    },
+    "pieceY": {
+      "address": 65,
+      "type": "|u1"
+    },
+	"shape ID": {
+      "address": 98,
+      "type": "|u1"
+    },
+	"score": {
+      "address": 83,
+      "type": "<d4"
+    },
+	"lines": {
+      "address": 80,
+      "type": "<d2"
+    },
+	"gameover": {
+      "address": 88,
+      "type": "|u1"
+    }
+  }
+}

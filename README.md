@@ -14,6 +14,7 @@ Scoring Parameters:
 
 The weighting for each parameter is determined through a cross-entropy algorithm. The game is played through gym-retro, a python library by Open-Ai that emulates videogames in python. The state and data files are included in the repo. However, the ROM of the game is not.
 
+Link to video of the program in action: https://youtu.be/MTxgA3SdI8g
 
 Link to paper: http://proceedings.mlr.press/v48/simsek16.html
 
